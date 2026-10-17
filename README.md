@@ -1,2 +1,3 @@
-# Roulette-de-casino
-Bot Discord Roulette Casino avec monnaie Couronne
+# Roulette Couronne
+
+Bot Discord de roulette casino avec monnaie Couronne.
